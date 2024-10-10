@@ -68,7 +68,7 @@ The project employs  Logistic Regression to predict loan defaults. Each model's 
 
 ## Results
 
-The best-performing model achieved an accuracy of 0.98.
+The model achieved an accuracy of 0.98.
 
 ## License
 This project is licensed under the Apache License.
